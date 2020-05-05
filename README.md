@@ -5,3 +5,4 @@ ver 1.0
 ver 3.0
 ver 4.0
 ver 5.0
+ver 6.0
